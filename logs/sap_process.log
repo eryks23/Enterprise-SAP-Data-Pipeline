@@ -1,0 +1,6 @@
+2026-05-04 20:05:10,368 - INFO - Starting SAP Data Pre-processing pipeline...
+2026-05-04 20:05:10,369 - INFO - Created sample data file at C:\Users\eryk1\Desktop\Nowy folder\data\input_data.json
+2026-05-04 20:05:10,375 - INFO - Loaded 3 records from data source
+2026-05-04 20:05:10,376 - INFO - File saved successfully: processed_success.csv
+2026-05-04 20:05:10,414 - INFO - File saved successfully: processed_errors.csv
+2026-05-04 20:05:10,414 - INFO - Process finished. Success: 1, Failures: 2

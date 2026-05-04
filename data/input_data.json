@@ -1,0 +1,17 @@
+[
+    {
+        "vat_id": "PL1234567890",
+        "country": "PL",
+        "email": "test@pro.pl"
+    },
+    {
+        "vat_id": "ABC12345",
+        "country": "DE",
+        "email": "invalid-email"
+    },
+    {
+        "vat_id": null,
+        "country": "PL",
+        "email": "missing@vat.pl"
+    }
+]

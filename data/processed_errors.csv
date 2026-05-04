@@ -1,0 +1,3 @@
+country,email,error_reason,group,vat_id
+DE,invalid-email,Validation failed (VAT/Email),INTERNATIONAL,ABC12345
+PL,missing@vat.pl,Validation failed (VAT/Email),DOMESTIC,
