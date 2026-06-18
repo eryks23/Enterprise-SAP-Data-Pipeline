@@ -273,7 +273,6 @@ print(f"Errors: {len(integrator.error_log)}")
 Enterprise-SAP-Data-Pipeline/
 ├── sap_integrator.py           # Main pipeline class and CLI entry point
 ├── requirements.txt            # Dependency manifest (stdlib only)
-├── .gitignore                  # Auto-generated on first run
 ├── LICENSE
 ├── README.md
 │
