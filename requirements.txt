@@ -1,0 +1,15 @@
+# Enterprise SAP Data Pipeline — Python dependencies
+#
+# This project uses only the Python standard library.
+# No packages need to be installed via pip.
+#
+# Requires: Python >= 3.8
+#
+# Standard library modules used:
+#   - json
+#   - logging
+#   - logging.handlers (RotatingFileHandler)
+#   - csv
+#   - re
+#   - sys
+#   - pathlib
